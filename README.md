@@ -2,7 +2,7 @@
 
 I am a fourth-year engineering student specializing in **software engineering**, **full-stack systems**, and **applied computer science**. I focus on designing clean, maintainable architectures, robust relational data models, and scalable backends.
 
-🎯 **Current Focus:** Actively seeking an international research internship in **software engineering** and **applied AI / intelligent systems** starting April.
+🎯 **Current Focus:** Actively seeking an international research internship in **software engineering** and **applied AI / intelligent systems** starting April 2027.
 
 ---
 
@@ -39,11 +39,11 @@ I am a fourth-year engineering student specializing in **software engineering**,
 
 ### 🛠️ Featured Projects
 
-- **[FabLab Management Platform](https://github.com/LubinRld)**  
+- **[FabLab Management Platform]**  
   Full-stack web application designed to automate inventory tracking, equipment bookings, consumable usage, and role-based access control with university authentication.  
   *Stack: TypeScript, React, Vite, Node.js / Fastify, MariaDB, Docker, REST APIs.*
 
-- **[Marty Robot Control & Automated Scoring System](https://github.com/LubinRld)**  
+- **[Marty Robot Control & Automated Scoring System](https://github.com/LubinRld/marty-dance-battle)**  
   Client-server application featuring a PyQt interface for remote robotics control and an automated referee system. Evaluates choreography sequences and scoring matrices via JSON HTTP requests to compute real-time scores.  
   *Stack: Python, PyQt, REST API / HTTP (JSON).*
 
